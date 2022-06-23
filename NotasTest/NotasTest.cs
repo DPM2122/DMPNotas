@@ -13,8 +13,7 @@ namespace NotasTest
         {
             ClaseEstadisticasNotas notas = new ClaseEstadisticasNotas();
             List<int> ListaNotas = new List<int>();
-
-           
+   
             ListaNotas.Add(9);
             ListaNotas.Add(9);
             ListaNotas.Add(9);
